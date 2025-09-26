@@ -65,6 +65,11 @@ The primary goal of this dashboard is to **analyze insurance policy and claim da
 
 
 
+# Screenshort link
+https://github.com/Sitara235/INSURANCE-RISK-AND-CLAIM-ANALYSIS/commit/43cc3470c19718e637c0bd7b3ef289b4d1e0ff45
+
+
+
 
 
 Let me know if you'd like help turning this into an actual file or generating sample screenshots!
